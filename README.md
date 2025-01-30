@@ -23,9 +23,12 @@ This project is an Express.js application that fetches data from three different
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/Samkit811/WebEngage-submission
+   ```
+2. **Move to the Directory:**
+   ```sh
    cd WebEngage-submission
    ```
-2. **Install dependencies:**
+3. **Install dependencies:**
    ```sh
    npm install
    ```
